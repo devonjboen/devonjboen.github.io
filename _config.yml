@@ -1,0 +1,21 @@
+# Site settings
+title: Devon's Code
+header-img: img/home-bg.png
+email: devonjboen@gmail.com
+copyright_name: devonjboen
+description: > # this means to ignore newlines until "baseurl:"
+  A Coding Chronicle
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: devonjboen
+github_username:  devonjboen
+learn_profile: devonjboen
+email_username: devonjboen@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
