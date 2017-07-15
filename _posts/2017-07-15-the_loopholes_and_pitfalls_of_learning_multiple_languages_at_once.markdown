@@ -8,6 +8,7 @@ date:   2017-07-15 15:26:08 -0400
 
 Growing up, I was fascinated with learning languages, and I started learning Spanish early. I studied it throughout school and then after high school, I studied on my own. I enjoyed so much trying to figure out how to fully communicate in a form that wasn’t native to me. 
 
+
 What was great about Spanish was that it is relatively easy to learn. Many words crossover into English and sentence structure isn’t totally alien. But, just as you would get confident, you’d realize there was a major difference. For example, instead of saying “Dave’s house” you’d say “the house of Dave.” That’s something to get used to for sure. Also, objects and things in Spanish use gendered definite articles. For example, the girl is “la chica” while the boy is “el nino.”
 
 There are many loopholes in Spanish as well as many obstacles for the English learner. It is easy to let your previous knowledge get in the way of what you’re trying to learn. 
